@@ -122,7 +122,7 @@ DATABASE_PASSWORD=
 
 Contributions, issues, and feature requests are welcome!
 
-feel free to check the [issue page](https://github.com/Progress2002/hello-rails-back-end/issues)
+feel free to check the [issue page]
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project kindly give it a star.

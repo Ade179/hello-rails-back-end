@@ -1,24 +1,143 @@
-# README
+<a name="readme-top"></a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 📗 Table of Contents
 
-Things you may want to cover:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-* Ruby version
+# 📖 Hello Rails Backend <a name="about-project"></a>
 
-* System dependencies
+The project is an exercise to builde a simple API with 1 endpoint using Rails that generates random greetings..
 
-* Configuration
+## 🛠 Built With <a name="built-with"></a>
 
-* Database creation
+### Tech Stack <a name="tech-stack"></a>
 
-* Database initialization
+<details>
+  <summary>Language</summary>
+  <ul>
+    <li><a href="https://rubyonrails.org/">Rails</a></li>
+    <li><a href="https://www.postgresql.org/">Postgresql</a></li>
+    <li><a href="https://react.dev/">React</a></li>
+    <li><a href="https://redux.js.org/">Redux</a></li>
+  </ul>
+</details>
 
-* How to run the test suite
+### Key Features <a name="key-features"></a>
 
-* Services (job queues, cache servers, search engines, etc.)
+- **Generates random greetings**
 
-* Deployment instructions
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-* ...
+## Frontend app
+
+Click [here]() to acess the frontend app built with react
+
+
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Install ruby on your computer or run it with docker
+- Have rails installed on your computer
+
+### Setup
+
+Clone this repository by using the command line :
+
+```sh
+git clone https://github.com/Ade179/hello-rails-back-end.git
+
+```
+
+### Install
+
+Install project dependencies by running:
+
+```
+bundle install
+```
+
+### Usage
+
+To run the project server, execute the following command:
+
+```
+rails s
+
+   OR
+
+./bin/dev
+```
+
+NB: You need to create an `env` file for your database credentials
+your env file should contain the following
+```
+DATABASE_USERNAME=
+DATABASE_PASSWORD=
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Authors <a name="authors"></a>
+
+👤 **Progress**
+
+👤 **AdeJuwon DanieL Adesanya**
+
+- GitHub: [@githubhandle](https://github.com/Ade179)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adejuwon-adesanya-237b54239/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **Add more greetings**
+- **Implement more functionalities**
+- **Add API documentation**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+feel free to check the [issue page](https://github.com/Progress2002/hello-rails-back-end/issues)
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project kindly give it a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for the project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -45,7 +45,7 @@ The project is an exercise to builde a simple API with 1 endpoint using Rails th
 
 ## Frontend app
 
-Click [here]() to acess the frontend app built with react
+Click [here](https://github.com/Ade179/hello-react-front-end/pull/1) to access the frontend app built with react
 
 
 

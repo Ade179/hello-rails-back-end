@@ -1,5 +1,5 @@
 class Api::MessagesController < ApplicationController
-  def random_greeting
+  def index
     @greeting = Message.all.sample
     render json: @greeting
   end
